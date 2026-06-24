@@ -2,6 +2,8 @@
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Famethystsoft%2FKeyringAccess%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/amethystsoft/KeyringAccess)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Famethystsoft%2FKeyringAccess%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/amethystsoft/KeyringAccess)
 
 [Documentation KeyringAccess](https://amethystsoft.github.io/KeyringAccess/keyring/documentation/keyringaccess/)
 [Documentation SecretService](https://amethystsoft.github.io/KeyringAccess/secret/documentation/secretservice/)
